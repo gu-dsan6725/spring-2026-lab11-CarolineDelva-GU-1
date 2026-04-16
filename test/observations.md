@@ -1,0 +1,5 @@
+  - What A2A messages were exchanged between agents (copy from logs)
+  - How the Travel Assistant discovered the Flight Booking Agent
+  - The JSON-RPC request/response format you observed
+  - What information was in the agent card and how it was used
+  - Your observations about the benefits and limitations of this approach
